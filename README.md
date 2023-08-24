@@ -1,11 +1,14 @@
 # DESAFIO_DOTNET_INAUGURAL
 
 ## Proposta  
-        O time deve desenvolver um projeto que adivinhe um número de 1 a 1000 concatenado com uma vogal podendo ter acento, ou ser maiúscula ou minúscula
-Ex.: A chave pode ser 10A, 48ç, 798à ou A13, A38, c4 ...etc 
-        Após criar os números o sistema deve fazer um POST no endpoint abaixo, ele não tem autenticação.
+
+O time deve desenvolver um projeto que adivinhe um número de 1 a 1000 concatenado com uma vogal podendo ter acento, ou ser maiúscula ou minúscula.
+
+Ex.: A chave pode ser 10A, 48b, 798à ou A13, A38, i4 ...etc 
+
+Após criar os números o sistema deve fazer um POST no endpoint abaixo, ele não tem autenticação.
  
-https://fiap-inaugural.azurewebsites.net/fiap 
+*https://fiap-inaugural.azurewebsites.net/fiap* 
 
 ```shell
 Exemplo do corpo do JSON:
