@@ -20,6 +20,6 @@ curl --location 'https://fiap-inaugural.azurewebsites.net/fiap' \
 '
 ```
 
-Esse endpoint vai retornar uma string com duas hashtags.
+Esse endpoint deve retornar uma string com duas hashtags.
  
 O grupo deve fazer um post no LinkedIn com a foto do grupo, junto com essa hashtag marcando a FIAP. O primeiro grupo que voltar com o link do post na sala principal é o vencedor 😉
