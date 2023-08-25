@@ -4,7 +4,7 @@
 
 O time deve desenvolver um projeto que adivinhe um número de 1 a 1000 concatenado com uma vogal podendo ter acento, ou ser maiúscula ou minúscula.
 
-Ex.: A chave pode ser 10A, 48b, 798à ou A13, A38, i4 ...etc 
+Ex.: A chave pode ser 10A, 48i, 798à ou A13, A38, i4 ...etc 
 
 Após criar os números o sistema deve fazer um POST no endpoint abaixo, ele não tem autenticação.
  
