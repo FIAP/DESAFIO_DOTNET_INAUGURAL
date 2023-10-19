@@ -7,15 +7,18 @@ O time deve desenvolver um projeto que adivinhe um número de 1 a 1000 concatena
 Ex.: A chave pode ser 10A, 48i, 798à ou A13, A38, i4 ...etc 
 
 Após criar os números o sistema deve fazer um POST no endpoint abaixo, ele não tem autenticação.
- 
-*https://fiap-inaugural.azurewebsites.net/fiap* 
+
+*https://fiap-turma3.azurewebsites.net/fiap*
+
 
 ```shell
 Exemplo do corpo do JSON:
 curl --location 'https://fiap-inaugural.azurewebsites.net/fiap' \
 --header 'Content-Type: application/json' \
---data '{
-  "key": "A13"
+--data '
+{
+    "Key": "X99h",
+    "grupo":"seu_grupo"
 }
 '
 ```
